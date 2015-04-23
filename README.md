@@ -37,3 +37,5 @@ Good Math - Mark C. Chu-Carroll
 [The Hitchhiker’s Guide to Python!] (http://docs.python-guide.org/en/latest/)
 
 [AWK] (http://www.grymoire.com/Unix/Awk.html)
+
+[The Right to Be Lazy] (https://www.marxists.org/archive/lafargue/1883/lazy/index.htm)
