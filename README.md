@@ -39,3 +39,5 @@ Good Math - Mark C. Chu-Carroll
 [AWK] (http://www.grymoire.com/Unix/Awk.html)
 
 [The Right to Be Lazy] (https://www.marxists.org/archive/lafargue/1883/lazy/index.htm)
+
+[High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
