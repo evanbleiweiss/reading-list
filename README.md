@@ -47,3 +47,5 @@ Good Math - Mark C. Chu-Carroll
 [Learning JavaScript Design Patterns] (http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [Understanding ECMAScript 6] (https://leanpub.com/understandinges6/read)
+
+[Human JavaScript] (http://read.humanjavascript.com)
