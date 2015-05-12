@@ -41,3 +41,9 @@ Good Math - Mark C. Chu-Carroll
 [The Right to Be Lazy] (https://www.marxists.org/archive/lafargue/1883/lazy/index.htm)
 
 [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+
+[Eloquent Javascript] (http://eloquentjavascript.net)
+
+[Learning JavaScript Design Patterns] (http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+[Understanding ECMAScript 6] (https://leanpub.com/understandinges6/read)
