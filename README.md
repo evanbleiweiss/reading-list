@@ -49,3 +49,5 @@ Good Math - Mark C. Chu-Carroll
 [Understanding ECMAScript 6] (https://leanpub.com/understandinges6/read)
 
 [Human JavaScript] (http://read.humanjavascript.com)
+
+[Web Components](http://webcomponents.org)
