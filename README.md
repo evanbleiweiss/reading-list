@@ -56,3 +56,5 @@ Good Math - Mark C. Chu-Carroll
 [Philosophy and the practice of Bayesian statistics] (http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
 [Practical Bayesian optimization of machine learning algorithms] (http://arxiv.org/pdf/1206.2944v2.pdf)
+
+[Probabilistic Programming & Bayesian Methods for Hackers] (http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
