@@ -51,3 +51,8 @@ Good Math - Mark C. Chu-Carroll
 [Human JavaScript] (http://read.humanjavascript.com)
 
 [Web Components](http://webcomponents.org)
+
+### some stuff about baes
+[Philosophy and the practice of Bayesian statistics] (http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
+
+[Practical Bayesian optimization of machine learning algorithms] (http://arxiv.org/pdf/1206.2944v2.pdf)
