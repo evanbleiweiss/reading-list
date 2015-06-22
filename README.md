@@ -24,17 +24,9 @@ Art and Visual Perception: A Psychology of the Creative Eye - Rudolf Arnheim
 
 Good Math - Mark C. Chu-Carroll
 
-# What I would like to read but haven't made time for
-
-[Microservice architecture patterns and best practices] (http://microservices.io/index.html)
-
-[Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen] (http://book.realworldhaskell.org/read/)
+# Would like to read but haven't made time for
 
 [Some Math Course Notes] (http://www.jmilne.org/math/CourseNotes/)
-
-[Test-Driven Development with Python] (http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-
-[The Hitchhiker’s Guide to Python!] (http://docs.python-guide.org/en/latest/)
 
 [AWK] (http://www.grymoire.com/Unix/Awk.html)
 
@@ -42,6 +34,20 @@ Good Math - Mark C. Chu-Carroll
 
 [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 
+[Web Components](http://webcomponents.org)
+
+## Systems Design
+[Microservice architecture patterns and best practices] (http://microservices.io/index.html)
+
+## Langs
+
+[Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen] (http://book.realworldhaskell.org/read/)
+
+[Test-Driven Development with Python] (http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+
+[The Hitchhiker’s Guide to Python!] (http://docs.python-guide.org/en/latest/)
+
+### JS
 [Eloquent Javascript] (http://eloquentjavascript.net)
 
 [Learning JavaScript Design Patterns] (http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -50,9 +56,7 @@ Good Math - Mark C. Chu-Carroll
 
 [Human JavaScript] (http://read.humanjavascript.com)
 
-[Web Components](http://webcomponents.org)
-
-### some stuff about baes
+## some stuff about baes
 [Philosophy and the practice of Bayesian statistics] (http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
 [Practical Bayesian optimization of machine learning algorithms] (http://arxiv.org/pdf/1206.2944v2.pdf)
