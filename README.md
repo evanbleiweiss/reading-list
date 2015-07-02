@@ -47,6 +47,8 @@ Good Math - Mark C. Chu-Carroll
 
 [The Hitchhiker’s Guide to Python!] (http://docs.python-guide.org/en/latest/)
 
+[Effective Go] (http://golang.org/doc/effective_go.html)
+
 ### JS
 [Eloquent Javascript] (http://eloquentjavascript.net)
 
