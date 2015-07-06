@@ -58,6 +58,8 @@ Good Math - Mark C. Chu-Carroll
 
 [Human JavaScript] (http://read.humanjavascript.com)
 
+[Mostly adequate guide to FP (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
+
 ## some stuff about baes
 [Philosophy and the practice of Bayesian statistics] (http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
