@@ -26,6 +26,8 @@ Good Math - Mark C. Chu-Carroll
 
 # Would like to read but haven't made time for
 
+Whitepaper [A Sober Look at National Security Access to Data in the Cloud] (http://www.hldataprotection.com/files/2013/05/A-Sober-Look-at-National-Security-Access-to-Data-in-the-Cloud.pdf)
+
 [Some Math Course Notes] (http://www.jmilne.org/math/CourseNotes/)
 
 [AWK] (http://www.grymoire.com/Unix/Awk.html)
