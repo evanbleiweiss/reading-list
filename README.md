@@ -12,6 +12,8 @@ What I've Been Reading
 
 Cat's Cradle: A Novel – Kurt Vonnegut
 
+[Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety - Eric Schlosser] (http://www.penguinrandomhouse.com/books/303337/command-and-control-by-eric-schlosser/) 
+
 ## In 2014
 
 [Interactive Data Visualization for the Web - Scott Murray] (http://chimera.labs.oreilly.com/books/1230000000345)
