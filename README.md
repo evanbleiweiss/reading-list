@@ -14,6 +14,8 @@ Cat's Cradle: A Novel – Kurt Vonnegut
 
 [Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety - Eric Schlosser] (http://www.penguinrandomhouse.com/books/303337/command-and-control-by-eric-schlosser/) 
 
+[The Wordy Shipmates - Sarah Vowell](https://www.goodreads.com/book/show/2845287-the-wordy-shipmates)
+
 ## In 2014
 
 [Interactive Data Visualization for the Web - Scott Murray] (http://chimera.labs.oreilly.com/books/1230000000345)
