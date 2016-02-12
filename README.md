@@ -1,5 +1,11 @@
 What I've Been Reading
 ============
+## In 2016
+
+Green Mars
+
+[Debt: The First 5000 Years] (https://libcom.org/files/__Debt__The_First_5_000_Years.pdf)
+
 ## In 2015
 
 [Python for Data Analysis - Wes McKinney] (http://shop.oreilly.com/product/0636920023784.do)
@@ -29,6 +35,8 @@ Art and Visual Perception: A Psychology of the Creative Eye - Rudolf Arnheim
 Good Math - Mark C. Chu-Carroll
 
 # Would like to read but haven't made time for
+
+[SIGNAL PROCESSING WITH GW150914 OPEN DATA] (https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
 
 Whitepaper [A Sober Look at National Security Access to Data in the Cloud] (http://www.hldataprotection.com/files/2013/05/A-Sober-Look-at-National-Security-Access-to-Data-in-the-Cloud.pdf)
 
