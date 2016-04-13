@@ -1,9 +1,11 @@
 What I've Been Reading
 ============
 ## In 2016
+[The Lean Startup] (http://theleanstartup.com/)
+
 [Crossing the Chasm] (https://en.wikipedia.org/wiki/Crossing_the_Chasm)
 
-Green Mars
+[Green Mars] (https://en.wikipedia.org/wiki/Mars_trilogy)
 
 [Debt: The First 5000 Years] (https://libcom.org/files/__Debt__The_First_5_000_Years.pdf)
 
