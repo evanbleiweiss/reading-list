@@ -39,6 +39,8 @@ Good Math - Mark C. Chu-Carroll
 
 # Would like to read but haven't made time for
 
+[Adding Asymmetrically Dominated Alternatives, Violations of Regularity and the Similarity Hypothesis] (https://faculty.fuqua.duke.edu/~jch8/bio/Papers/Huber%20Payne%20Puto%201982%20JoCR.pdf)
+
 [SIGNAL PROCESSING WITH GW150914 OPEN DATA] (https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
 
 Whitepaper [A Sober Look at National Security Access to Data in the Cloud] (http://www.hldataprotection.com/files/2013/05/A-Sober-Look-at-National-Security-Access-to-Data-in-the-Cloud.pdf)
