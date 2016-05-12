@@ -69,6 +69,7 @@
             <outline type="rss" text="ReadWriteWeb" title="ReadWriteWeb" xmlUrl="http://www.readwriteweb.com/rss.xml" htmlUrl="http://readwrite.com"/>
         </outline>
         <outline text="Security" title="Security">
+            <outline type="rss" text="Phrack" title="Phrack" xmlUrl="http://phrack.org" htmlUrl="http://www.phrack.org"/>
             <outline type="rss" text="CircleID" title="CircleID" xmlUrl="http://feeds.circleid.com/cid_master" htmlUrl="http://www.circleid.com/"/>
             <outline type="rss" text="Security Tools" title="Security Tools" xmlUrl="http://blogs.msdn.com/b/securitytools/rss.aspx" htmlUrl="http://blogs.msdn.com/b/securitytools/"/>
             <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://feeds.feedburner.com/schneier/fulltext" htmlUrl="https://www.schneier.com/blog/"/>
