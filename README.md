@@ -1,9 +1,14 @@
 What I've Been Reading
 ============
 ## In 2016
-[The Lean Startup] (http://theleanstartup.com/)
 
-[Crossing the Chasm] (https://en.wikipedia.org/wiki/Crossing_the_Chasm)
+Behind Closed Doors - Johanna Rothman, Esther Derby
+
+The Five Dysfunctions of a Team: A Leadership Fable - Patrick M. Lencioni
+
+[The Lean Startup - Eric Ries] (http://theleanstartup.com/)
+
+[Crossing the Chasm - Geoffrey A. Moore] (https://en.wikipedia.org/wiki/Crossing_the_Chasm)
 
 [Green Mars] (https://en.wikipedia.org/wiki/Mars_trilogy)
 
