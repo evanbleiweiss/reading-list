@@ -44,6 +44,8 @@ Good Math - Mark C. Chu-Carroll
 
 # Would like to read but haven't made time for
 
+http://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-7.10.pdf
+
 https://people.eecs.berkeley.edu/~daw/papers/voice-usenix16.pdf
 
 [Adding Asymmetrically Dominated Alternatives, Violations of Regularity and the Similarity Hypothesis] (https://faculty.fuqua.duke.edu/~jch8/bio/Papers/Huber%20Payne%20Puto%201982%20JoCR.pdf)
