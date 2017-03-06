@@ -43,6 +43,9 @@ Art and Visual Perception: A Psychology of the Creative Eye - Rudolf Arnheim
 Good Math - Mark C. Chu-Carroll
 
 # Would like to read but haven't made time for
+
+Math for Computer Science - https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+
 Google Site Reliability - https://landing.google.com/sre/book/index.html
 
 http://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-7.10.pdf
